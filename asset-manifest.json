@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Anubha-create/Movie-Recommender/static/css/main.d6479019.css",
-    "main.js": "/Anubha-create/Movie-Recommender/static/js/main.bd40e4ed.js",
-    "static/js/453.ef29045e.chunk.js": "/Anubha-create/Movie-Recommender/static/js/453.ef29045e.chunk.js",
-    "index.html": "/Anubha-create/Movie-Recommender/index.html",
-    "main.d6479019.css.map": "/Anubha-create/Movie-Recommender/static/css/main.d6479019.css.map",
-    "main.bd40e4ed.js.map": "/Anubha-create/Movie-Recommender/static/js/main.bd40e4ed.js.map",
-    "453.ef29045e.chunk.js.map": "/Anubha-create/Movie-Recommender/static/js/453.ef29045e.chunk.js.map"
+    "main.css": "/Movie-Recommender/static/css/main.d6479019.css",
+    "main.js": "/Movie-Recommender/static/js/main.f2c352cb.js",
+    "static/js/453.ef29045e.chunk.js": "/Movie-Recommender/static/js/453.ef29045e.chunk.js",
+    "index.html": "/Movie-Recommender/index.html",
+    "main.d6479019.css.map": "/Movie-Recommender/static/css/main.d6479019.css.map",
+    "main.f2c352cb.js.map": "/Movie-Recommender/static/js/main.f2c352cb.js.map",
+    "453.ef29045e.chunk.js.map": "/Movie-Recommender/static/js/453.ef29045e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6479019.css",
-    "static/js/main.bd40e4ed.js"
+    "static/js/main.f2c352cb.js"
   ]
 }
